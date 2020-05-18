@@ -1,0 +1,24 @@
+{
+  "name": "destination-demo",
+  "version": "1.0.0",
+  "description": "Demo SCP CF destination local",
+  "scripts": {
+    "start": "cds run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wouter Lemaire",
+  "license": "ISC",
+  "dependencies": {
+    "@sap/cds": "^3.34.1",
+    "sap-cf-axios": "^0.2.3"
+  },
+  "cds": {
+    "requires": {},
+    "odata": {
+      "version": "v4"
+    }
+  },
+  "files": [
+    "srv"
+  ]
+}
