@@ -9,7 +9,7 @@
   "author": "Wouter Lemaire",
   "license": "ISC",
   "dependencies": {
-    "@sap/cds": "^3.34.1",
+    "@sap/cds": "^6.4.0",
     "sap-cf-axios": "^0.2.3"
   },
   "cds": {
